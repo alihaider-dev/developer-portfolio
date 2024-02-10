@@ -8,7 +8,6 @@ h1 {
 .orange-color {
   color: orange;
 }
-
 .flexiable-container {
   display: flex;
   margin-bottom: 100px;
@@ -35,13 +34,11 @@ h1 {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
-
 .dream-big {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
-
 .experiance-item {
   width: 40%;
   margin-left: 5%;
@@ -49,7 +46,6 @@ h1 {
   box-shadow: 15px 15px 30px lightgray;
   padding: 20px;
 }
-
 .experiance {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
@@ -65,7 +61,6 @@ h1 {
   border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
 }
-
 footer p {
   text-align: center;
 }
